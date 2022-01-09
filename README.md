@@ -4,7 +4,10 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=EduTsBarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduTsBarros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;"><br>
   <img align="center" alt="EduTsBarros-Js" height="30"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="EduTsBarros-Ts" height="30"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="EduTsBarros-React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
